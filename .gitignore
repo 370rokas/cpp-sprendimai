@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Misc compiler stuff
+*.ilk
+*.pdb
+
+# IDE, cmake stuff
+cmake-build-debug/
+.idea/
+
+# Nesurusiuoti projektai
+unsorted/
