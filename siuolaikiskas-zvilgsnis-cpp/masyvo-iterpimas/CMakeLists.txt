@@ -1,0 +1,3 @@
+add_subdirectory(kolekcijos)
+add_subdirectory(krepsininkai)
+add_subdirectory(pasikartojantys-skaiciai)
