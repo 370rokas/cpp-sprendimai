@@ -1,1 +1,2 @@
 add_subdirectory(kontroliniu-darbu-dienos)
+add_subdirectory(automorfinis-skaicius)

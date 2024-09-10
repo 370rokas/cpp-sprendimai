@@ -11,8 +11,12 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
 ## 📒 Turinys
 
 - Lietuvos Mokinių Informatikos Olimpiados (LMIO) uždaviniai:
+  - X (1998-1999)
+    - [Trys sodininkai (sodininkai-vyr)](lmio/10%20(1998-1999)/sodininkai-vyr)
   - XII (2000-2001)
     - [Kas vadas? (vadas-jau)](lmio/12%20(2000-2001)/vadas-jau)
+  - XVI (2004-2005)
+    - [Gucikai, Mucikai, Fucikai (gucikai-vyr)](lmio/16%20(2004-2005)/gucikai-vyr)
 - IT Valstybinis Brandos Egzaminas (VBE)
   - 2013
     - Pavyzdinė Užduotis
