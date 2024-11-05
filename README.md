@@ -35,8 +35,13 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
     - [0. Pasikartojantys skaičiai](siuolaikiskas-zvilgsnis-cpp/masyvo-iterpimas/pasikartojantys-skaiciai)
     - [2. Kolekcijos](siuolaikiskas-zvilgsnis-cpp/masyvo-iterpimas/kolekcijos)
     - [4. Krepšininkai](siuolaikiskas-zvilgsnis-cpp/masyvo-iterpimas/krepsininkai)
+  - 1.14 Pažintis su struktūros duomenų tipu
+    - [4. Lėktuvo bagažas](siuolaikiskas-zvilgsnis-cpp/pazintis-strukturos-duomenu-tipu/)
+  - 1.15 Paieška nesutvarkytame sąraše
+    - [2. Ledai](siuolaikiskas-zvilgsnis-cpp/paieska-nesutvarkytame-sarase/ledai)
 - Kiti šaltiniai:
   - [Kontrolinių darbų dienos](random/kontroliniu-darbu-dienos) 
+  - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
 
 ## 🏦 Credits
 Uždavinių pats nekūriau, visos autorinės teisės priklauso jų autoriams.
