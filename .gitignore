@@ -41,3 +41,8 @@ cmake-build-debug/
 
 # Nesurusiuoti projektai
 unsorted/
+
+# Ignoruoti failus be extensiono (linux executable compatibility)
+*
+!/**/
+!*.*
