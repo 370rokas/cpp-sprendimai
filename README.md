@@ -24,6 +24,10 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 2014
     - Pagrindinė Sesija
       - [Balsavimo Rezultatai](vbe/2014-pagrindine/balsavimo-rezultatai)
+  - 2018
+    - Pagrindinė Sesija
+      - [Vėliavėlės](vbe/2018-pagrindine/veliaveles)
+      - [Slidininkai](vbe/2018-pagrindine/slidininkai)
   - 2023
     - Pagrindinė Sesija
       - [Žingsniai](vbe/2023-pagrindine/zingsniai) 
