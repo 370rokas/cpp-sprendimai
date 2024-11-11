@@ -30,6 +30,8 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 2024
     - Pagrindinė Sesija
       - [Krepšinis](vbe/2024-pagrindine/krepsinis)
+    - Pavyzdinė Užduotis
+      - [Disko metimas](vbe/2024-pavyzdine/disko-metimas)
 - Šiuolaikiškas žvilgsnis į programavimą C++ (R. Burbaitė, J. Blonskis, V. Bukšnaitis)
   - 1.10 Reikšmių įterpimas į masyvą
     - [0. Pasikartojantys skaičiai](siuolaikiskas-zvilgsnis-cpp/masyvo-iterpimas/pasikartojantys-skaiciai)
