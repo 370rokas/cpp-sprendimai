@@ -28,6 +28,9 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
     - Pagrindinė Sesija
       - [Vėliavėlės](vbe/2018-pagrindine/veliaveles)
       - [Slidininkai](vbe/2018-pagrindine/slidininkai)
+  - 2020
+    - Pagrindinė Sesija
+      - [Varžybos](vbe/2020-pagrindine/varzybos)
   - 2023
     - Pagrindinė Sesija
       - [Žingsniai](vbe/2023-pagrindine/zingsniai) 
