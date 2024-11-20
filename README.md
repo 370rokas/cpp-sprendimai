@@ -31,6 +31,9 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 2020
     - Pagrindinė Sesija
       - [Varžybos](vbe/2020-pagrindine/varzybos)
+  - 2022
+    - Pagrindinė Sesija
+      - [Sportas namuose](vbe/2022-pagrindine/sportas-namuose)
   - 2023
     - Pagrindinė Sesija
       - [Žingsniai](vbe/2023-pagrindine/zingsniai) 
