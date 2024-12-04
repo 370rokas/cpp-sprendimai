@@ -24,6 +24,9 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 2014
     - Pagrindinė Sesija
       - [Balsavimo Rezultatai](vbe/2014-pagrindine/balsavimo-rezultatai)
+  - 2015
+    - Pagrindinė Sesija
+      - [Avys](vbe/2015-pagrindine/avys)
   - 2018
     - Pagrindinė Sesija
       - [Vėliavėlės](vbe/2018-pagrindine/veliaveles)
@@ -31,6 +34,9 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 2020
     - Pagrindinė Sesija
       - [Varžybos](vbe/2020-pagrindine/varzybos)
+  - 2021
+    - Pagrindinė Sesija
+      - [Apklausa](vbe/2021-pagrindine/apklausa)
   - 2022
     - Pagrindinė Sesija
       - [Sportas namuose](vbe/2022-pagrindine/sportas-namuose)
@@ -51,6 +57,8 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
     - [4. Lėktuvo bagažas](siuolaikiskas-zvilgsnis-cpp/pazintis-strukturos-duomenu-tipu/)
   - 1.15 Paieška nesutvarkytame sąraše
     - [2. Ledai](siuolaikiskas-zvilgsnis-cpp/paieska-nesutvarkytame-sarase/ledai)
+  - 1.16 Duomenų atranka
+    - [1. Kolekcija](siuolaikiskas-zvilgsnis-cpp/duomenu-atranka/kolekcija)
 - Kiti šaltiniai:
   - [Kontrolinių darbų dienos](random/kontroliniu-darbu-dienos) 
   - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
