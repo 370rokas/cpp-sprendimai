@@ -27,6 +27,12 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 2015
     - Pagrindinė Sesija
       - [Avys](vbe/2015-pagrindine/avys)
+  - 2016
+    - Pagrindinė Sesija
+      - [Mankšta](vbe/2016-pagrindine/manksta)
+  - 2017
+    - Pagrindinė Sesija
+      - [Piešinys](vbe/2017-pagrindine/piesinys)
   - 2018
     - Pagrindinė Sesija
       - [Vėliavėlės](vbe/2018-pagrindine/veliaveles)
