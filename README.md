@@ -37,6 +37,9 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
     - Pagrindinė Sesija
       - [Vėliavėlės](vbe/2018-pagrindine/veliaveles)
       - [Slidininkai](vbe/2018-pagrindine/slidininkai)
+  - 2019
+  - Pagrindinė Sesija
+    - [Sportas](vbe/2019-pagrindine/sportas)
   - 2020
     - Pagrindinė Sesija
       - [Varžybos](vbe/2020-pagrindine/varzybos)
@@ -48,7 +51,9 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
       - [Sportas namuose](vbe/2022-pagrindine/sportas-namuose)
   - 2023
     - Pagrindinė Sesija
-      - [Žingsniai](vbe/2023-pagrindine/zingsniai) 
+      - [Žingsniai](vbe/2023-pagrindine/zingsniai)
+    - Pavyzdinė Užduotis
+      - [Eurovizija](vbe/2023-pavyzdine/eurovizija)
   - 2024
     - Pagrindinė Sesija
       - [Krepšinis](vbe/2024-pagrindine/krepsinis)
@@ -68,6 +73,7 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
 - Kiti šaltiniai:
   - [Kontrolinių darbų dienos](random/kontroliniu-darbu-dienos) 
   - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
+  - [Televizoriai](random/televizoriai)
 
 ## 🏦 Credits
 Uždavinių pats nekūriau, visos autorinės teisės priklauso jų autoriams.
