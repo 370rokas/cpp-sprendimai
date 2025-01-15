@@ -71,7 +71,8 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - 1.16 Duomenų atranka
     - [1. Kolekcija](siuolaikiskas-zvilgsnis-cpp/duomenu-atranka/kolekcija)
 - Kiti šaltiniai:
-  - [Kontrolinių darbų dienos](random/kontroliniu-darbu-dienos) 
+  - [Kontrolinių darbų dienos](random/kontroliniu-darbu-dienos)
+  - [Lietuvos Apskritys](random/lietuvos-apskritys-csv)
   - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
   - [Televizoriai](random/televizoriai)
 
