@@ -1,4 +1,5 @@
 add_subdirectory(kontroliniu-darbu-dienos)
+add_subdirectory(geriausia-parduotuve-csv)
 add_subdirectory(lietuvos-apskritys-csv)
 add_subdirectory(automorfinis-skaicius)
 add_subdirectory(televizoriai)

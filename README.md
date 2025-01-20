@@ -75,6 +75,7 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - [Lietuvos Apskritys](random/lietuvos-apskritys-csv)
   - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
   - [Televizoriai](random/televizoriai)
+  - [Konkursas Geriausia Parduotuvė (csv)](random/geriausia-parduotuve-csv)
 
 ## 🏦 Credits
 Uždavinių pats nekūriau, visos autorinės teisės priklauso jų autoriams.
