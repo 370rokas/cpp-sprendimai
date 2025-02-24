@@ -76,6 +76,7 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
   - [Televizoriai](random/televizoriai)
   - [Konkursas Geriausia Parduotuvė (csv)](random/geriausia-parduotuve-csv)
+  - [8.10 Paskola](random/8.10-paskola)
 
 ## 🏦 Credits
 Uždavinių pats nekūriau, visos autorinės teisės priklauso jų autoriams.
