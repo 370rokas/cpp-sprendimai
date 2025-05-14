@@ -20,7 +20,7 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
 - IT Valstybinis Brandos Egzaminas (VBE)
   - 2013
     - Pavyzdinė Užduotis
-      - [Batai](vbe/2013-pavyzdine/batai) 
+      - [Batai](vbe/2013-pavyzdine/batai)
   - 2014
     - Pagrindinė Sesija
       - [Balsavimo Rezultatai](vbe/2014-pagrindine/balsavimo-rezultatai)
@@ -76,6 +76,7 @@ Jei radai klaidą arba turi pasiūlymų, kaip galima pagerinti/patvarkyti kodą,
   - [Automorfiniai Skaičiai](random/automorfinis-skaicius)
   - [Televizoriai](random/televizoriai)
   - [Konkursas Geriausia Parduotuvė (csv)](random/geriausia-parduotuve-csv)
+  - [2.1 Krepšininkai](random/2.1-krepsininkai)
   - [8.10 Paskola](random/8.10-paskola)
 
 ## 🏦 Credits
